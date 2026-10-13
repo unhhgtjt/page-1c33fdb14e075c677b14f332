@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e4644e82f212548899fba6ec",
+  "owner": "unhhgtjt",
+  "repo": "page-1c33fdb14e075c677b14f332",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1c33fdb14e075c677b14f332",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "814be92f8408a8d164522f931e882e2f26d22e818e842e39c9930bef6d9b2800",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点为您提供专业的高速 Clash 订阅与 VPN 加速器服务，支持多种客户端下载，解锁流媒体与游戏加速。选择基础版、旗舰版或团队版套餐，享受稳定网络。",
+          "AI_DESCRIPTION": "clash节点为您提供专业的高速 Clash 订阅与 VPN 加速器服务，支持多种客户端下载，解锁流媒体与游戏加速。选择基础版、旗舰版或团队版套餐，享受稳定网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #f8f5f0;\n            --coral: #ff6b6b;\n            --text: #2c3e50;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.7;\n            font-size: 16px;\n        }\n        header {\n            background: white;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 5%;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.75rem;\n            font-weight: 700;\n            color: var(--coral);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2.5rem;\n        }\n        .nav-links a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .hero {\n            background: linear-gradient(135deg, #fff 0%, #ffe0e0 100%);\n            padding: 100px 5%;\n            text-align: center;\n            color: white;\n            position: relative;\n            overflow: hidden;\n        }\n        .hero::before {\n            content: \"\";\n            position: absolute;\n            top: 0;\n            left: 0;\n            right: 0;\n            bottom: 0;\n            background: radial-gradient(circle at 30% 20%, rgba(255,107,107,0.15) 0%, transparent 70%);\n        }\n        .hero h1 {\n            font-size: 2.8rem;\n            margin-bottom: 1rem;\n            text-shadow: 0 2px 10px rgba(0,0,0,0.1);\n        }\n        .hero p {\n            font-size: 1.25rem;\n            max-width: 600px;\n            margin: 0 auto 2rem;\n        }\n        .main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 3rem 5%;\n        }\n        h2 {\n            font-size: 1.85rem;\n            margin: 3rem 0 1.5rem;\n            color: var(--coral);\n            position: relative;\n        }\n        h2::after {\n            content: \"\";\n            position: absolute;\n            bottom: -4px;\n            left: 0;\n            width: 60px;\n            height: 3px;\n            background: var(--coral);\n        }\n        .intro {\n            margin-bottom: 3rem;\n            max-width: 800px;\n        }\n        .intro p {\n            font-size: 1.1rem;\n            margin-bottom: 1.5rem;\n        }\n        .scenarios {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .scenario-card {\n            background: white;\n            padding: 1.8rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n        }\n        .scenario-card h3 {\n            margin-bottom: 0.8rem;\n            color: var(--coral);\n        }\n        .guides {\n            background: white;\n            padding: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n        }\n        .guides ol {\n            counter-reset: step;\n            padding-left: 1.2rem;\n        }\n        .guides li {\n            counter-increment: step;\n            margin-bottom: 1.4rem;\n            position: relative;\n            padding-left: 1.4rem;\n        }\n        .guides li::before {\n            content: counter(step);\n            position: absolute;\n            left: 0;\n            width: 28px;\n            height: 28px;\n            background: var(--coral);\n            color: white;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 50%;\n            font-weight: bold;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 2rem;\n        }\n        .plan {\n            background: white;\n            border-radius: 12px;\n            padding: 2rem;\n            box-shadow: 0 5px 20px rgba(0,0,0,0.08);\n            transition: all 0.3s ease;\n        }\n        .plan.featured {\n            border: 4px solid var(--coral);\n            transform: translateY(-8px);\n            box-shadow: 0 15px 30px rgba(255,107,107,0.2);\n        }\n        .plan h3 {\n            font-size: 1.45rem;\n            margin-bottom: 0.6rem;\n        }\n        .plan .price {\n            font-size: 1.65rem;\n            font-weight: 700;\n            color: var(--coral);\n            margin-bottom: 1.2rem;\n        }\n        .plan ul {\n            margin: 1.5rem 0;\n        }\n        .plan li {\n            margin: 0.7rem 0;\n            padding-left: 1.2rem;\n            position: relative;\n        }\n        .plan li::before {\n            content: \"✓\";\n            position: absolute;\n            left: 0;\n            color: var(--coral);\n        }\n        .plan a {\n            display: block;\n            background: var(--coral);\n            color: white;\n            text-align: center;\n            padding: 0.9rem;\n            border-radius: 30px;\n            text-decoration: none;\n            font-weight: 600;\n            margin-top: 1.2rem;\n        }\n        .client-section {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 1.5rem;\n            margin: 2.5rem 0;\n        }\n        .client-item {\n            background: white;\n            padding: 1.5rem 2rem;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n            flex: 1;\n            min-width: 220px;\n        }\n        .client-item strong {\n            display: block;\n            margin-bottom: 0.6rem;\n            color: var(--coral);\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 10px;\n            overflow: hidden;\n            box-shadow: 0 3px 10px rgba(0,0,0,0.07);\n        }\n        summary {\n            padding: 1.4rem 1.8rem;\n            font-weight: 600;\n            font-size: 1.1rem;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        details[open] summary {\n            border-bottom: 1px solid #eee;\n        }\n        details[open] > div {\n            padding: 0 1.8rem 1.8rem;\n            border-top: 1px solid #eee;\n        }\n        footer {\n            background: #2c3e50;\n            color: #ddd;\n            text-align: center;\n            padding: 2rem 5%;\n            font-size: 0.95rem;\n        }\n        @media (max-width: 768px) {\n            .main {\n                padding: 2rem 4%;\n            }\n            .hero {\n                padding: 70px 4%;\n            }\n            .hero h1 {\n                font-size: 2.2rem;\n            }\n            .plans-grid {\n                grid-template-columns: 1fr;\n            }\n            .client-section {\n                flex-direction: column;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">clash节点</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>clash节点</h1>\n            <p>高速 Clash 订阅与 VPN 加速器<br>客户端下载 官网订阅</p>\n            <a href=\"#plans\">立即查看套餐</a>\n        </section>\n        <section class=\"main\">\n            <div class=\"intro\">\n                <h2>品牌简介</h2>\n                <p>clash节点是专注于 Clash 节点订阅的高速 VPN 加速器服务商。提供稳定线路、流量套餐和多设备支持，帮助用户实现网络加速、流媒体解锁与隐私保护。</p>\n            </div>\n            <h2>使用场景</h2>\n            <div class=\"scenarios\">\n                <div class=\"scenario-card\">\n                    <h3>流媒体解锁</h3>\n                    <p>Netflix、YouTube、Disney+、HBO 等平台原生解锁，享受高清无广告体验。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC 专线优化，降低延迟，提升游戏帧率，适合多人在线游戏。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>隐私保护</h3>\n                    <p>匿名上网，绕过网络限制，保护个人数据安全。</p>\n                </div>\n            </div>\n            <h2>操作说明</h2>\n            <div class=\"guides\">\n                <ol>\n                    <li>访问官网选择套餐并完成支付</li>\n                    <li>获取专属订阅链接</li>\n                    <li>下载兼容客户端</li>\n                    <li>导入订阅链接连接节点</li>\n                    <li>享受高速网络加速</li>\n                </ol>\n            </div>\n            <h2 id=\"plans\">套餐选择</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div>按年付仅需 ¥150/年</div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#download\">选择基础版</a>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div>按年付仅需 ¥350/年</div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#download\">选择旗舰版</a>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div>按年付仅需 ¥850/年</div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#download\">选择团队版</a>\n                </div>\n            </div>\n            <h2 id=\"download\">客户端选择与下载</h2>\n            <div class=\"client-section\">\n                <div class=\"client-item\">\n                    <strong>Clash 官方客户端</strong>\n                    <p>跨平台支持 Windows / macOS / Linux / Android / iOS</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>Clash Meta</strong>\n                    <p>增强版，支持更多规则与实验功能</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>Nekobox</strong>\n                    <p>Android 专属，轻量级高效客户端</p>\n                </div>\n                <div class=\"client-item\">\n                    <strong>Shadowrocket</strong>\n                    <p>iOS 专业工具，支持订阅链接</p>\n                </div>\n            </div>\n            <div class=\"faq\">\n                <h2>常见问题</h2>\n                <details>\n                    <summary>如何获取 clash节点订阅链接？</summary>\n                    <div>\n                        <p>在官网完成套餐选择与支付，即可立即获得专属订阅链接。链接支持导入 Clash 客户端使用。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>支持哪些客户端？</summary>\n                    <div>\n                        <p>clash节点兼容 Clash 官方、Clash Meta、Nekobox、Shadowrocket 等多种客户端。您可根据设备选择下载最新版本。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>流量如何计算？</summary>\n                    <div>\n                        <p>流量按月重置计算，超出部分不影响基础使用速度，但建议选择匹配需求的套餐。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>如何解锁流媒体？</summary>\n                    <div>\n                        <p>旗舰版及以上套餐提供全节点原生解锁功能，通过导入订阅链接即可直接访问全球流媒体平台。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>售后支持如何？</summary>\n                    <div>\n                        <p>旗舰版及团队版提供 7x24 优先响应服务，遇到问题可在线提交工单，我们将在 24 小时内回复。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>节点速度如何？</summary>\n                    <div>\n                        <p>所有线路均经过优化，基础版提供 100Mbps+ 速度，旗舰版 IPLC 专线可进一步提升游戏与浏览速度。</p>\n                    </div>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 clash节点 官网下载 所有权利保留</p>\n    </footer>\n\n",
+          "hash": "f0000f03acf2efd6aaf9a0886c578895c02eab28396eeb7dae8ba33d1d6181b0",
+          "seo": {
+            "title": "clash节点 | 高速 Clash 订阅与 VPN 加速器 客户端下载",
+            "keywords": "clash节点, clash订阅, 机场, vpn加速器, 客户端下载, 官网下载, clash节点订阅",
+            "description": "clash节点为您提供专业的高速 Clash 订阅与 VPN 加速器服务，支持多种客户端下载，解锁流媒体与游戏加速。选择基础版、旗舰版或团队版套餐，享受稳定网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "milva.cn",
+    "host": "p-969f7d668c.milva.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7190275bc9899bd15038f54c0f1874dc3119d3ac30d4df4acdfb98cad02bcb1d",
+    "sitemap.xml": "e07e1eea3265705cda327fecba68245812df0d41988b20af729ac7343b16014a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0d6402e57ac160e60e7d62e3dda3147fb05714b57f04d2ec5d6f1e90bad949b0",
+    "robots.txt": "be277f2bacffbc6db17fc9354546483a34f22ad2c9171f7c0f9aa6ed87f2f199",
+    "f5e6ad8c1bdfdee6471708a6f218572f.txt": "9d93e0c6a46c0530fb09f36fd8c413062ac988c3d48f4745a81dc36b64cee0df"
+  },
+  "revision": "38d4a9c74a5ffe1e4be232bc3b87447ac0369dfaf2bfa3b0f6ede4c636c2562b"
+}
